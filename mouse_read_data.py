@@ -3,7 +3,7 @@ import sys
 import usb.core
 import usb.util
 # decimal vendor and product values
-a = [[0x1bcf,0x053a],[0x192f,0x0716]]
+a = [[0x046d,0xC52f],[0x192f,0x0716]]
 ID = 0
 idVendor = a[ID][0]
 idProduct = a[ID][1]
